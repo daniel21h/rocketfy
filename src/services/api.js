@@ -78,12 +78,12 @@ export function loadLists() {
         cards: [
           {
             id: 10,
-            content: 'Gravar aula sobre deploy e CI com React Native',
+            content: 'Ganhar Mega Hack, tanto o desafio escolhido pela equipe, quanto o geral',
             labels: [],
           },
           {
             id: 12,
-            content: 'Gravar testes e deploy ReactJS',
+            content: 'Gravar aula sobre deploy e CI com React Native',
             labels: ['#54e1f7'],
           },
           {
